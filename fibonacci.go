@@ -2,11 +2,6 @@ package algorithms
 
 import "fmt"
 
-var (
-	current = 0
-	next = 0
-)
-
 func Fibonacci() {
 	var (
 		pos int
